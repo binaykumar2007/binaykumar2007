@@ -1,0 +1,2 @@
+five text in dir bdtest1
+ok
